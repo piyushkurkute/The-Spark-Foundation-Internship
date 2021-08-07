@@ -1,5 +1,5 @@
 # The-Spark-Foundation-Internship
 Name: Piyush M. Kurkute
-Task 1: Prediction using Unsupervised ML
+Task 2: Prediction using Unsupervised ML
 
 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
